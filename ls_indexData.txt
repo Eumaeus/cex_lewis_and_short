@@ -361,8 +361,8 @@ n359#accinctus
 n360#accingo
 n361#accino
 n362#accio
-n363#accipio
 n364#accipenser
+n363#accipio
 n365#accipiter
 n366#accipitrina
 n367#accipitro
@@ -931,6 +931,7 @@ n929#admurmuratio
 n930#admurmuro
 n931#admurmuror
 n932#admutilo
+n941#adn
 n933#adnascor
 n934#adnato
 n935#adnatus
@@ -939,7 +940,6 @@ n937#adnecto
 n938#adnepos
 n939#adneptis
 n940#adnomen
-n941#adn
 n942#adobruo
 n943#adolabilis
 n944#adolatio
@@ -1093,8 +1093,8 @@ n1091#adverso
 n1092#adversor
 n1093#adversus1
 n1094#adversus2
-n1095#adverto
 n1096#adversus3
+n1095#adverto
 n1097#advesperascit
 n1098#advigilo
 n1099#advivo
@@ -1657,8 +1657,8 @@ n1655#ai1
 n1656#ai2
 n1657#aiens
 n1658#aientia
-n1659#aio
 n1660#ain
+n1659#aio
 n1661#aithales
 n1662#Aius Loquens
 n1663#aizoon
@@ -2145,8 +2145,8 @@ n2143#ambagiosus
 n2144#ambago
 n2145#ambarvalis
 n2146#ambaxio
-n2147#ambecisus
 n2148#ambe
+n2147#ambecisus
 n2149#ambedo
 n2150#ambestrix
 n2151#ambesus
@@ -2216,7 +2216,7 @@ n2214#Ameria
 n2215#amerimnon
 n2216#ames
 n2217#Amestratus
-n2218#amothystinatus
+n2218#amethystinatus
 n2219#amethystinus
 n2220#amethystizon
 n2221#amethystus
@@ -2816,8 +2816,8 @@ n2814#Anthedon2
 n2815#anthemis
 n2816#anthemum
 n2817#Anthemus
-n2818#Anthemusia
 n2819#Anthemusa
+n2818#Anthemusia
 n2820#anthera
 n2821#anthericos
 n2822#anthias
@@ -4182,7 +4182,7 @@ n4180#astrobolos
 n4181#astroites
 n4182#astrologia
 n4183#astrologus
-n4184#astroonomia
+n4184#astronomia
 n4185#astronomicus
 n4186#astronomus
 n4187#astrosus
@@ -4489,7 +4489,7 @@ n4487#auguratus
 n4488#augurialis
 n4489#Augurinus
 n4490#augurium
-n4491#augu/rius
+n4491#augurius
 n4492#auguro
 n4493#auguror
 n4494#Augusta
@@ -4617,10 +4617,10 @@ n4615#auster1
 n4616#auster2
 n4617#austeralis
 n4618#austere1
+n4622#austere2
 n4619#austeritas
 n4620#austerulus
 n4621#austerus
-n4622#austere2
 n4623#australis
 n4624#Austrania
 n4625#austrifer
@@ -5378,7 +5378,7 @@ n5376#bipartio
 n5377#bipatens
 n5378#bipeda
 n5379#bipedalis
-n5380#bepedalium
+n5380#bipedalium
 n5381#bipedaneus
 n5382#bipennifer
 n5383#bipennis1
@@ -5556,8 +5556,8 @@ n5554#bonitas
 n5555#Bonna
 n5556#Bononia
 n5557#bonum1
-n5558#bonus
 n5559#bonum2
+n5558#bonus
 n5560#bonuscula
 n5561#boo
 n5562#boopes
@@ -6780,7 +6780,7 @@ n6778#cardineus
 n6779#cardo
 n6780#carduelis
 n6781#carduetum
-n6782#cardu .s
+n6782#carduus
 n6783#care
 n6784#carectum
 n6785#carenaria
@@ -7364,7 +7364,7 @@ n7362#cenatus
 n7363#Cenchreae
 n7364#Cenchreis
 n7365#cenchris
-n7366#cenchrltis
+n7366#cenchritis
 n7367#Cenchrius
 n7368#cenchros
 n7369#Cenimagni
@@ -7425,9 +7425,9 @@ n7423#Centrones
 n7424#centrosus
 n7425#centrum
 n7426#centum
-n7427#Centumalus
 n7428#centum capita
 n7429#Centum Cellae
+n7427#Centumalus
 n7430#Centumgeminus
 n7431#centumpeda
 n7432#centumpondium
@@ -10513,8 +10513,8 @@ n10511#consiliatio
 n10512#consiliator
 n10513#consiliatrix
 n10514#consiligo
-n10515#Consilinum
 n10516#Consilinas
+n10515#Consilinum
 n10517#consilior
 n10518#consiliosus
 n10519#consilium
@@ -12174,10 +12174,10 @@ n12172#cynophanes
 n12173#cynops
 n12174#cynorrodon
 n12175#Cynos1
+n12179#cynos2
 n12176#Cynosarges
 n12177#cynosbatos
 n12178#Cynoscephalae
-n12179#cynos2
 n12180#cynosorchis
 n12181#cynospastos
 n12182#Cynossema
