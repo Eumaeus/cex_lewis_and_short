@@ -4,6 +4,8 @@ This repository holds an edition of the Lewis & Short Latin Dictionary formatted
 
 The original digitization of the public domain text of the LSJ is courtesy of the [Perseus Digital Library](http://www.perseus.tufts.edu/):  Text provided by Perseus Digital Library, with funding from The National Endowment for the Humanities.  Original version available for viewing and download at <http://www.perseus.tufts.edu/>.	
 
+> Anyone looking at this might be interested in [this end-user application](https://github.com/Eumaeus/LewisShort.js).
+
 License CC 3.0 BY-NC-SA.
 
 ## Contents
